@@ -1,8 +1,3 @@
-Below is a complete README.md file for your project. You can copy and paste this content into your repository. It has been structured with clear headings and instructions for image insertion, and it includes details on model building with GridSearchCV along with a summary table of performance metrics.
-
----
-
-
 # Protein Structure Classification Using Machine Learning
 
 This repository contains the source code, notebooks, and detailed project report for the **Protein Structure Classification** project. The objective of the project is to leverage machine learning techniques to classify proteins based on their structural and experimental attributes. This work demonstrates a robust data preprocessing pipeline, exploratory data analysis (EDA), and the development of effective classification models.
